@@ -1,0 +1,65 @@
+﻿Depilação de Virilha Completa
+Aplicação de Coloracão
+Manicure
+Manicure,Pedicure
+Manicure,Pedicure
+Hidratação Senscience
+Manicure
+Manicure,Pedicure
+Pedicure
+Pedicure
+Manicure,Pedicure,Sorancelha com linha
+Lavagem Especial,Escova Modelada
+Manicure,Pedicure,Hidratação com ampolas,Spa dos pés
+Escova Modelada
+Corte Masculino
+Corte Feminino
+Manicure,Pedicure
+Sobrancelha Pinca
+Escova Lisa
+Sobrancelha Pinca
+Corte infantil
+Manicure,Pedicure
+Manicure,Pedicure,Massagenm Relaxante
+Manicure,Escova Modelada
+Escova Modelada,Lavagem Especial
+Manicure,Escova Modelada,Lavagem Especial
+Manicure
+Manicure,Pedicure
+Coloracao,Manicure,Pedicure
+Depilacao de Virilha Completa
+Escova Progressiva
+Sobrancelha com Linha,Manicure,Depilacao de Buco com Linha
+Limpeza de Pele
+Manicure,Pedicure
+Manicure
+Manicure,Pedicure
+Sobrancelha na Pinca
+Sobrancelha na Pinca
+Escova Lisa,Massagem Relaxante,Manicure,Pedicure,Lavagem Detox
+Manicure
+Corte Masculino
+Pedicure
+Manicure,Pedicure
+Corte Masculino
+Pedicure,Sobrancelha na Pinca
+Manicure,Pedicure,Lavagem Especial
+Manicure,Pedicure
+Manicure
+Manicure,Pedicure
+Manicure,Pedicure
+Manicure,Pedicure
+Corte Masculino
+Manicure
+Manicure,Pedicure
+Sobrancelha na Pinca,Maquiagem
+Manicure
+Tratamento Regener,Escova Modelada, Manicure
+Corte Masculino,Manicure,Pedicure
+Coloracao,Manicure,Pedicure
+Sobrancelha com Linha
+Barba,Manicure,Pedicure
+Escova Modelada,Manicure
+Corte Feminino,Escova Modelada
+Manicure,Pedicure,Escova Modelada
+Escova Modelada,Manicure
